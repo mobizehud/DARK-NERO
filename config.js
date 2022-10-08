@@ -11,7 +11,7 @@
 //┃SOME ENCRYPTED FILES
 //┃
 //┃THANKS FOR CHOOSING DarkNero
-//┃THANKS TO Vishanga & Thinura & kumuthu
+//┃THANKS TO Kusal & Deshan & Chalana
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 const fs = require('fs')
@@ -33,25 +33,25 @@ global.APIKeys = {
 
 global.alivemsg =`HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️
                     
-		   KAVEESHA MD📌 `
+		   KAVEEN MD📌 `
                      
 
 
 
 
 
-global.alivepic = `https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg `//you logo key 
+global.alivepic = `https://i.ibb.co/9yH4QFX/wallpaperflare-com-wallpaper.jpg `//you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.ownername = " KAVEEN " //ur owner name
+global.owner = ['94761544363','']
+global.premium = ['94761544363','94761544363']
+global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 kAVIYA  𝙼⃝𝙳'
+global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 KAVIYA  𝙼⃝𝙳'
 global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
 global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
 global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
+global.ytchannel = 'https://www.youtube.com/channel/UCU88G-7LfQ3nJjSa9gLPL_w'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
